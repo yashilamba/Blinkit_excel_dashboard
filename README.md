@@ -86,7 +86,7 @@ This repository may include:
 This project shows how Excel can be used not only for storing data but also for analyzing and presenting business insights in an interactive way. It helped improve skills in Excel, data analysis, dashboard design, and business understanding.
 
 ## Author
-**Your Name Here**
+Yash Lamba
 
 ## Contact
-You can update this section with your GitHub profile or email.
+yashilamba902@gmail.com
